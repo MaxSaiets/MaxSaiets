@@ -1,6 +1,6 @@
-<a href="https://maxsaiets.com"><img src="assets/planet.svg" width="100%" alt="Max Saiets, Python and AI engineer. maxsaiets.com"></a>
+### Max Saiets
 
-I build production systems that work with real data: computer vision on phone video, LLM agents, 3D models from map data, and automation that a business runs on.
+Python and AI engineer. I build production systems that work with real data: computer vision on phone video, LLM agents, 3D models from map data, and automation that a business runs on.
 
 **Selected work**
 
